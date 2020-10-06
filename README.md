@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/vulnlabs-org"><img src="/assets/branding/kooqit-logo.png" alt="KooQit! logo" width="85%"></a>
+  <a href="https://github.com/vulnlabs-org"><img src="/assets/branding/kooqit-logo.png" alt="KooQit! logo" width="65%"></a>
 <h4 align="center">Welcome to the KooQit! Organization Community Health files repository!</h4>
 
 The purpose of this repository is to centralize all the community health files. These are global community files that apply to repositories that do not have their own files.
