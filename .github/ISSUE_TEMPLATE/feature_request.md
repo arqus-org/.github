@@ -3,6 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE-REQUEST] Short description of my feature"
 labels: 'type: Improvement'
+
 ---
 
 **Is your feature request related to a problem? Please describe.**
