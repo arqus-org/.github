@@ -1,0 +1,82 @@
+[
+  {
+    "name": "priority: High",
+    "color": "d73a4a",
+    "description": "High priority issue"
+  },
+  {
+    "name": "priority: Low",
+    "color": "0075ca",
+    "description": "Low priority issue"
+  },
+  {
+    "name": "priority: Medium",
+    "color": "6b4df2",
+    "description": "Medium priority issue"
+  },
+  {
+    "name": "status: Duplicate",
+    "color": "2a292c",
+    "description": "The issue or pull request already exists"
+  },
+  {
+    "name": "status: Pending",
+    "color": "d73a4a",
+    "description": "Issue is waiting on something to happen"
+  },
+  {
+    "name": "status: Wont' Fix",
+    "color": "2a292c",
+    "description": "Issue will not be fixed"
+  },
+  {
+    "name": "theme: Code Quality",
+    "color": "c926b3",
+    "description": "Code quality / reliability related issue"
+  },
+  {
+    "name": "theme: DevOps",
+    "color": "c926b3",
+    "description": "DevOps related issue"
+  },
+  {
+    "name": "theme: Developer Experience",
+    "color": "c926b3",
+    "description": "Developers / Contributors experience related issue"
+  },
+  {
+    "name": "theme: Features",
+    "color": "c926b3",
+    "description": "Features related issues"
+  },
+  {
+    "name": "theme: GitHub Use",
+    "color": "c926b3",
+    "description": "GitHub use related issues"
+  },
+  {
+    "name": "theme: UI/UX",
+    "color": "c926b3",
+    "description": "User interface design/User experience related issues"
+  },
+  {
+    "name": "type: Bug",
+    "color": "d73a4a",
+    "description": ""
+  },
+  {
+    "name": "type: Documentation",
+    "color": "0075ca",
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "name": "type: Improvement",
+    "color": "0075ca",
+    "description": "New feature or request"
+  },
+  {
+    "name": "type: Question",
+    "color": "0075ca",
+    "description": "Further information is requested"
+  }
+]

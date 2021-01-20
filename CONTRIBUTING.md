@@ -75,19 +75,24 @@ SCRUM methodology principles are followed applying the following mapping between
   </thead>
   <tbody>
     <tr>
-      <td>Stable Product</td>
+      <td>Stable Product (Production Environment)</td>
       <td>`main`</td>
+      <td>Accepts merges from `development`</td>
+    </tr>
+    <tr>
+      <td>Almost Stable Product (Development Environment)</td>
+      <td>`development`</td>
       <td>Accepts merges from `topic/*` and `fix/*`</td>
     </tr>
     <tr>
       <td>General Enhancement</td>
       <td>`topic/*`</td>
-      <td>Always branch off latest version of `main`</td>
+      <td>Always branch off latest version of `developement`</td>
     </tr>
     <tr>
       <td>Patches / Fixes</td>
       <td>`fix/*`</td>
-      <td>Always branch off latest version of `main`</td>
+      <td>Always branch off latest version of `developement`</td>
     </tr>
   </tbody>
 </table>
